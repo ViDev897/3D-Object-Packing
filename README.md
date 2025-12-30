@@ -47,14 +47,6 @@ Matplotlib
 
 Trimesh
 
-📂 Project Structure
-computer-vision-3d-object-packing/
-│
-├── data/                # 3D mesh files and input data
-├── src/                 # Core logic and algorithms
-├── README.md
-└── requirements.txt
-
 🎯 Use Cases
 
 3D space utilization analysis
